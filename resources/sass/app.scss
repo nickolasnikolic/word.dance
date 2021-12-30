@@ -1,0 +1,193 @@
+// Fonts
+@import url('./fonts/_index.scss');
+
+//design
+@import './design/main'; 
+
+//adjustments
+
+html,body{
+    font-family: 'tt-firs-regular';
+    color: white;
+}
+
+h1,h2,h3,h4,h5,h6,b, strong{
+    font-family: 'tt-firs-regular';
+}
+
+b, strong{
+    font-family: 'tt-firs-black';
+}
+em{
+    font-family: 'tt-firs-italic'
+}
+li{
+    list-style: none;
+}
+p.meaning{
+    font-family: 'tt-firs-light';
+    max-width: 30em;
+}
+
+.poem a, .features a{
+    text-decoration: underline;
+    text-decoration-color: #edb92e;
+}
+
+.is-underlined{
+    text-decoration: underline;
+}
+
+pre{
+    display: block;
+    background: transparent;
+    overflow: visible;
+    font-family: 'jaspersqueeze';
+    font-size: 1.5em;
+    text-overflow: ellipsis;
+    text-align: left;
+    color: white;
+}
+
+#header > .logo{
+    font-family: 'Scriptina_Pro';
+    font-size: 2.5em !important;
+    position: relative;
+    top: 0.7em;
+}
+#header > .navPanelToggle{
+    color: lighten(_palette(bg), 90%);
+}
+
+#navPanel a{
+    color: white !important;
+}
+
+.features{
+    justify-content: left;
+    margin: 0;
+}
+
+.wrapper.new-poets{
+    background-color: lighten(_palette(bg), 20%);
+}
+.new-genre{
+    background-color: lighten(_palette(bg), 10%);
+}
+#header > nav > ul > li > a{
+    color: white;
+}
+.content-broad-desktop{
+    min-width: 80em;
+}
+.poetry-x{
+    position: absolute;
+    right: 80px;
+    top: 180px;
+}
+.pagination{
+    font-size: 3em;
+    background-color: darken(_palette(bg-alt), 20%);
+    position: static;
+
+    display: inline;
+    li{
+        display: inline;
+    }
+}
+.sponsorship .button{
+    margin: 0.25em;
+}
+
+.version{
+    font-family: 'tt-firs-light';
+}
+
+input[type=text], input[type=password], input[type=email], input[type=tel], input[type=search], input[type=url], select, textarea{
+    border: solid 2px white;
+    color: white;
+}
+
+input[type=submit]:after, input[type=reset]:after, input[type=button]:after, button:after, .button:after{
+    font-family: 'IcoMoon-Free';
+    content: "\E9B3";
+    color: grey;
+}
+
+input::placeholder, textarea::placeholder{
+    
+    color: lightslategray !important;
+    
+}
+
+textarea{
+    color: white;
+}
+
+label{
+    display: inline;
+}
+
+i{
+    display: inline;
+}
+
+figure{
+    display: inline;
+}
+
+form > div{
+    display: block;
+    width: 93%;
+    clear: both;
+}
+
+ul{
+
+    a{
+        animation: color 0.5s ease-in-out;
+    }
+}
+.poem{
+    font-size: 1.8rem;
+    max-width: 40rem;
+    margin-left: 0em !important;
+    line-height: 1.2em;
+    margin-bottom: 4em;
+}
+
+#footer .copyright{
+    color: white;
+}
+
+input[type="checkbox"]{
+    appearance: checkbox !important;
+    size: 20px !important;
+}
+@media (min-width: 2480px){
+    .search button{
+        position: absolute;
+        right: 0em;
+        top: 10em;
+    }
+}
+
+@media (max-width: 400px) and (orientation: portrait){
+    .search{
+        input{
+            position: fixed;
+            bottom: 12px;
+            left: 12px;
+            width: 12em;
+        }
+
+        button{
+            position: fixed;
+            bottom: 12px;
+            right: 12px;
+        }
+    }
+    .hide-on-mobile{
+        display: none;
+    }
+}

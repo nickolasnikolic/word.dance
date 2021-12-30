@@ -1,0 +1,22 @@
+TT Firs v1.0
+December 07 2016
+
+files included:
+TT Firs Hairline v1.0
+TT Firs Hairline Italic v1.0
+TT Firs Thin v1.0
+TT Firs Thin Italic v1.0
+TT Firs Extra Light v1.0
+TT Firs Extra Light Italic v1.0
+TT Firs Light v1.0
+TT Firs Light Italic v1.0
+TT Firs Regular v1.0
+TT Firs Italic v1.0
+TT Firs Medium v1.0
+TT Firs Medium Italic v1.0
+TT Firs Bold v1.0
+TT Firs Bold Italic v1.0
+TT Firs Extra Bold v1.0
+TT Firs Extra Bold Italic v1.0
+TT Firs Black v1.0
+TT Firs Black Italic v1.0

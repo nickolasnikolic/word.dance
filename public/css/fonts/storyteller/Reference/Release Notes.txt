@@ -1,0 +1,39 @@
+Storyteller v1.0
+December 07 2016
+
+files included:
+Storyteller Sans Light v1.0
+Storyteller Sans Regular v1.0
+Storyteller Sans Semi Bold v1.0
+Storyteller Sans Bold v1.0
+Storyteller Sans Black v1.0
+Storyteller Sans Condensed Light v1.0
+Storyteller Sans Condensed Regular v1.0
+Storyteller Sans Condensed SemiBold v1.0
+Storyteller Sans Condensed Contrast v1.0
+Storyteller Sans Condensed Bold Contrast v1.0
+Storyteller Sans Condensed Engraved v1.0
+Storyteller Sans Condensed Contrast Fill v1.0
+Storyteller Sans Extra Condensed Light v1.0
+Storyteller Sans Extra Condensed Regular v1.0
+Storyteller Sans Extra Condensed SemiBold v1.0
+Storyteller Sans Extra Condensed Contrast v1.0
+Storyteller Sans Extra Condensed Bold Contrast v1.0
+Storyteller Serif Light v1.0
+Storyteller Serif Regular v1.0
+Storyteller Serif Contrast v1.0
+Storyteller Serif Engraved v1.0
+Storyteller Serif Fill v1.0
+Storyteller Script Light v1.0
+Storyteller Script Light Casual v1.0
+Storyteller Script Bold v1.0
+Storyteller Script Bold Casual v1.0
+Storyteller Script Regular v1.0
+Storyteller Script Regular Fill v1.0
+Storyteller Script Casual v1.0
+Storyteller Script Casual Fill v1.0
+Storyteller Brush Regular v1.0
+Storyteller Design Elements Regular v1.0
+Storyteller Design Elements Spring v1.0
+Storyteller OLD Black Fill v1.0
+Storyteller OLD Black v1.0
